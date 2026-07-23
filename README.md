@@ -1,74 +1,165 @@
-# Baaotraan0407.github.io
+# 🌐 Lam Bao Tran | Personal Portfolio
 
-# Bao Tran — Personal Website
+Welcome to my personal portfolio website.
 
-This repository contains my personal website created for the CS351: AI-assisted Software Development course.
+This website showcases my background, technical skills, software projects, and development experience. It serves as a central place where recruiters, collaborators, and developers can learn more about me and explore my work.
 
-## Website Purpose
+🔗 **Live Website:** https://Baaotraan0407.github.io
 
-The purpose of this website is to present:
+---
 
-* My learning journey during the semester
-* Course projects and repositories
-* Skills and tools learned
-* Reflections on AI-assisted software development
+## 👨‍💻 About Me
 
-## Technologies Used
+I am a recent graduate with a Bachelor's degree in Informatics from Yuan Ze University, passionate about Software Engineering, Artificial Intelligence, and Computer Vision.
 
-* HTML
-* CSS
-* GitHub Pages
-* Visual Studio Code
-* Git and GitHub
+My interests include:
 
-## Website Features
+- Software Engineering
+- AI-assisted Development
+- Computer Vision
+- Machine Learning
+- Python Development
+- Data-driven Applications
 
-* Personal introduction
-* Semester learning summary
-* Project portfolio
-* Skills and tools section
-* Reflection on AI-assisted development
-* GitHub repository links
+I enjoy building practical software solutions that solve real-world problems while writing clean, maintainable, and well-documented code.
 
-## Course Projects
+---
 
-### Project 0 — Two Sum
+## 🚀 Featured Projects
 
-Focus:
+### Real-Time Driver Drowsiness Detection
 
-* Algorithm problem solving
-* Testing workflow
-* GitHub Actions
+A real-time driver monitoring system using Computer Vision and Deep Learning.
 
-### Project B — CSV Mini Database
+**Tech Stack**
 
-Focus:
+- Python
+- OpenCV
+- TensorFlow
+- YOLOv8
+- NumPy
 
-* CSV data handling
-* Query and search functions
-* Software structure and debugging
+**Highlights**
 
-### Assignment II — SDD, BDD, TDD Report
+- Real-time webcam detection
+- Eye-state and yawn recognition
+- MAR & PERCLOS fatigue analysis
+- 15.7 FPS on CPU-only hardware
 
-Focus:
+GitHub:
+https://github.com/Baaotraan0407/drowsiness-detection
 
-* Specification-Driven Development
-* Behavior-Driven Development
-* Test-Driven Development
+---
 
-## GitHub Pages
+### TrueCareer – Career Guidance System
 
-Website URL:
+A data-driven career recommendation system for Vietnamese high school students.
 
+**Tech Stack**
+
+- Python
+- Streamlit
+- Scikit-learn
+- Pandas
+- Axure RP
+
+**Highlights**
+
+- K-Means clustering
+- Career recommendation engine
+- Interactive Streamlit dashboard
+- Assessment-based guidance
+
+GitHub:
+https://github.com/Baaotraan0407/truecareer-career-guidance-system
+
+---
+
+### Studio Ghibli-Themed Productivity App
+
+A responsive productivity web application inspired by Studio Ghibli.
+
+**Tech Stack**
+
+- HTML
+- CSS
+- JavaScript
+
+**Features**
+
+- To-do list
+- Countdown timer
+- Animated user interface
+- Responsive design
+
+GitHub:
+https://github.com/Baaotraan0407/1113540-final-project
+
+---
+
+## 🛠 Technical Skills
+
+### Programming Languages
+
+- Python
+- C++
+- JavaScript
+- HTML
+- CSS
+
+### AI & Machine Learning
+
+- TensorFlow
+- Keras
+- YOLOv8
+- OpenCV
+- Scikit-learn
+
+### Development Tools
+
+- Git
+- GitHub
+- GitHub Actions
+- VS Code
+- Jira
+- Streamlit
+
+### Software Engineering
+
+- Object-Oriented Programming
+- Debugging
+- Unit Testing
+- AI-assisted Development
+
+---
+
+## 📄 Resume
+
+You can download my latest resume directly from my portfolio website.
+
+---
+
+## 📫 Contact
+
+Email:
+**lambaotran309@gmail.com**
+
+GitHub:
+https://github.com/Baaotraan0407
+
+Portfolio:
 https://Baaotraan0407.github.io
 
-## Reflection
+---
 
-Through this website and course projects, I learned that software development is not only about writing code. It also involves version control, testing, debugging, project organization, and responsible use of AI tools.
+## 💡 Philosophy
 
-AI tools helped me generate ideas, explain concepts, and debug problems. However, I also learned the importance of verifying AI-generated results through testing and personal understanding.
+> AI accelerates software development, but quality still depends on human understanding, testing, and verification.
 
-## Author
+I believe AI should assist developers—not replace critical thinking. Every project I build is validated through testing, debugging, and careful code review to ensure reliability and maintainability.
 
-Bao Tran
-Student ID: 1113540
+---
+
+## License
+
+This repository is for my personal portfolio website.
